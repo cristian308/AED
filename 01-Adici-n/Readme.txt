@@ -12,7 +12,7 @@ Leer y guardar
 Pedir 
 Leer y guardar
 Mostrar resultado
-◦ Modelo IPO: https://ibb.co/eUKLxS
+◦ Modelo IPO: ![modelo ipo](https://ibb.co/eUKLxS)
 Etapa #2 Diseño de la Solución:
 ◦ Léxico del Algoritmo: a ∈ Z,b ∈ Z
 ◦ Representación del Algoritmo:
