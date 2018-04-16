@@ -15,11 +15,11 @@
 # Análisis del probelma:
 > - Transcripción del problema:Obtener del usuario dos números y mostrarle la suma.
 > - Refinamiento del problema e Hipótesis de trabajo:
-1)Pedir
-2)Leer y guardar
-3)Pedir 
-4)Leer y guardar
-5)Mostrar resultado
+1) Pedir
+2) Leer y guardar
+3) Pedir 
+4) Leer y guardar
+5) Mostrar resultado
 > - Modelo IPO: 
 ![Alt text](ipo-01.png "Imagen del análisis")
 # Diseño de la Solución:
