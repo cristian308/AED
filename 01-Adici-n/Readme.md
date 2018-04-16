@@ -12,7 +12,7 @@
 > -Apellido:Siles Rodriguez
 > -Nombre:Cristian Samuel
 > -Trabajo N°1:Adición
-Etapa #1 Análisis del probelma:
+# Análisis del probelma:
 ◦ Transcripción del problema:Obtener del usuario dos números y mostrarle la suma.
 ◦ Refinamiento del problema e Hipótesis de trabajo:
 Pedir
