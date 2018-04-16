@@ -12,7 +12,7 @@ Leer y guardar
 Pedir 
 Leer y guardar
 Mostrar resultado
-◦ Modelo IPO: ipo-01.png
+◦ Modelo IPO: ![Alt text](ipo-01.png "Imagen del análisis")
 Etapa #2 Diseño de la Solución:
 ◦ Léxico del Algoritmo: a ∈ Z,b ∈ Z
 ◦ Representación del Algoritmo:
