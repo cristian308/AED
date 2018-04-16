@@ -21,8 +21,15 @@
 4) Leer y guardar
 5) Mostrar resultado
 > - Modelo IPO: 
-![Alt text](ipo-01.png "Imagen del análisis")
+![Alt text](IPO.png "Imagen del análisis")
+
 # Diseño de la Solución:
 > - Léxico del Algoritmo: a ∈ Z,b ∈ Z
 > - Representación del Algoritmo:
-> - Representación visual: 
+1) Representación visual: Nassi-Shneiderman	(NS)  
+
+| a,b ∈ Z |
+| :---: |
+| **Leer a** |
+| **Leer b** |
+| **Mostrar "a+b"** |
