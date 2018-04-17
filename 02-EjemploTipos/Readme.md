@@ -10,3 +10,8 @@
 > - Apellido: Siles Rodriguez
 > - Nombre: Cristian Samuel
 > - Trabajo N°2: Valores y operaciones de tipos de datos
+
+## Problema
+Diseñar un programa C++ que ejemplifique la aplicación de los tipos de datos
+vistos en clases:
+*Diseñar un programa que 
