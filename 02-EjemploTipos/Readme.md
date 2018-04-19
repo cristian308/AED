@@ -33,3 +33,5 @@ Ademas tambien se pide declarar un caracter de cualquier letra mostrandolo junto
 5)Mostrar
 
 > - Modelo IPO:
+
+![Alt text](IPO2.png "Imagen del análisis")
