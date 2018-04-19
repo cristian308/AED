@@ -35,3 +35,9 @@ Ademas tambien se pide declarar un caracter de cualquier letra mostrandolo junto
 > - Modelo IPO:
 
 ![Alt text](IPO2.png "Imagen del análisis")
+
+# Diseño de la Solución:
+> - Léxico del Algoritmo: suma ∈ Z,longui ∈ Z,b ∈ Z,valor ∈ Z,div ∈ Q
+
+> - Representación del Algoritmo:
+*Representación textual en C++:
