@@ -14,5 +14,22 @@
 ## Problema
 Diseñar un programa C++ que ejemplifique la aplicación de los tipos de datos
 vistos en clases:
-*Diseñar un programa que sume dos numeros y el resultado lo divida por la longitud de una cadena de caracter llamada cadena que debera ser declarada.
+*Diseñar un programa que sume dos numeros y el resultado lo divida por la longitud de una cadena de caracter , tambien el resultado de la division multiplicarlo por el numero 3.1415.
 Ademas tambien se pide declarar un caracter de cualquier letra mostrandolo junto con el resultado de la suma y un tipo de dato boleano que sea verdadero.*
+
+# Análisis del probelma:
+> - Transcripción del problema:Diseñar un programa que sume dos numeros y el resultado lo divida por la longitud de una cadena de caracter , tambien el resultado de la division multiplicarlo por el numero 3.1415.
+Ademas tambien se pide declarar un caracter de cualquier letra mostrandolo junto con el resultado de la suma y un tipo de dato boleano que sea verdadero.
+> - Refinamiento del problema e Hipótesis de trabajo:
+
+1)Sumar
+
+2)dividir
+
+3)calcular longitud
+
+4)Multiplicar por 3.1415
+
+5)Mostrar
+
+> - Modelo IPO:
