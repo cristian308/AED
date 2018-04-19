@@ -14,4 +14,5 @@
 ## Problema
 Diseñar un programa C++ que ejemplifique la aplicación de los tipos de datos
 vistos en clases:
-*Diseñar un programa que 
+*Diseñar un programa que sume dos numeros y el resultado lo divida por la longitud de una cadena de caracter llamada cadena que debera ser declarada.
+Ademas tambien se pide declarar un caracter de cualquier letra mostrandolo junto con el resultado de la suma y un tipo de dato boleano que sea verdadero.*
