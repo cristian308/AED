@@ -1,6 +1,6 @@
 > - Asignatura: Algoritmos y Estructura de Datos
 > - Curso: k1051
-> - Año: 2018
+> - Año: 2019
 > - Cuatrimestre: Primer Cuatrimestre
 
 
