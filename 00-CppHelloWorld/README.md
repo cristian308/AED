@@ -1,10 +1,16 @@
 
-Autor: Cristian Siles
-Usuario:cristian308
-Legajo:160.529-0
-Apellido:Siles Rodriguez
-Nombre:Cristian Samuel
-Trabajo #0 "Hello, World!
+-Autor: Cristian Siles
+
+-Usuario:cristian308
+
+-Legajo:160.529-0
+
+-Apellido:Siles Rodriguez
+
+-Nombre:Cristian Samuel
+
+-Trabajo #0 "Hello, World!
+
 Transcripcion del Enunciado:
 1. Solicitar inscripción al Grupo Yahoo, la aprobación demora un par de días.
 2. Si no posee una cuenta GitHub, crearla.
